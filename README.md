@@ -1,6 +1,6 @@
 # Proyecto-opencv-
 
-Facultad de Ingeníeria UNAM, PAMN 05, 2016-1. Inegrantes: Lugo Garcia Julio Cesar//Ulises 
+Facultad de Ingeníeria UNAM, PAMN 05, 2016-1. Inegrantes: Lugo Garcia Julio Cesar//Lopez Amezcua Ulises 
 
 Lenguaje: python
 
